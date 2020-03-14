@@ -1,0 +1,131 @@
+2020-03-14 12:58:18.401 [main] INFO  Log - Starting test execution of Test
+2020-03-14 12:59:58.320 [main] INFO  Log - Starting test execution of Test
+2020-03-14 13:02:12.739 [main] INFO  Log - Starting test execution of Test
+2020-03-14 13:08:08.459 [main] INFO  Log - Starting test execution of Test
+2020-03-14 13:08:09.764 [main] INFO  Log - Title: Google
+2020-03-14 13:08:16.536 [main] INFO  Log - Title: selenium - Google Search
+2020-03-14 13:33:34.020 [main] INFO  Log - Starting test execution of Test
+2020-03-14 13:33:35.258 [main] INFO  Log - Title: Google
+2020-03-14 13:33:41.967 [main] INFO  Log - Title: selenium - Google Search
+2020-03-14 13:33:41.967 [main] WARN  Log - Warning message
+2020-03-14 13:34:45.288 [main] INFO  Log - Starting test execution of Test
+2020-03-14 13:34:45.943 [main] INFO  Log - Title: Google
+2020-03-14 13:34:53.628 [main] INFO  Log - Title: selenium - Google Search
+2020-03-14 13:34:53.628 [main] INFO  Log - FirstTest
+2020-03-14 13:36:58.044 [main] INFO  Log - Starting test execution of Test
+2020-03-14 13:36:59.203 [main] INFO  Log - Title: Google
+2020-03-14 13:37:05.929 [main] INFO  Log - Title: selenium - Google Search
+2020-03-14 13:37:05.930 [main] INFO  Log - Scenario name: FirstTest
+2020-03-14 13:37:05.930 [main] INFO  Log - Test name: java.lang.reflect.Method
+2020-03-14 14:16:02.081 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:16:03.240 [main] INFO  Log - Title: Google
+2020-03-14 14:16:10.193 [main] INFO  Log - Title: selenium - Google Search
+2020-03-14 14:16:10.193 [main] INFO  Log - Scenario name: FirstTest
+2020-03-14 14:16:10.194 [main] INFO  Log - ENDING test execution of Test: FirstTest
+2020-03-14 14:17:46.831 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:17:48.044 [main] INFO  Log - Title: Google
+2020-03-14 14:20:51.154 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:20:51.164 [main] INFO  Log - ENDING test execution of Test: FailTest
+2020-03-14 14:20:52.277 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:20:52.885 [main] INFO  Log - Title: Google
+2020-03-14 14:21:00.783 [main] INFO  Log - Title: selenium - Google Search
+2020-03-14 14:21:00.783 [main] INFO  Log - Scenario name: FirstTest
+2020-03-14 14:21:00.784 [main] INFO  Log - ENDING test execution of Test: FirstTest
+2020-03-14 14:21:02.001 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:21:03.507 [main] INFO  Log - Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-14 14:21:03.508 [main] INFO  Log - ENDING test execution of Test: SecondTest
+2020-03-14 14:21:04.634 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:21:04.637 [main] INFO  Log - ENDING test execution of Test: SkipTest
+2020-03-14 14:21:05.794 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:21:09.135 [main] INFO  Log - Title: Coding Boot-camp | Tech Lead Academy
+2020-03-14 14:21:09.135 [main] INFO  Log - ENDING test execution of Test: ThirdTest
+2020-03-14 14:21:52.718 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:21:52.727 [main] INFO  Log - ENDING test execution of Test: FailTest
+2020-03-14 14:21:53.888 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:21:55.075 [main] INFO  Log - Title: Google
+2020-03-14 14:22:01.781 [main] INFO  Log - Title: selenium - Google Search
+2020-03-14 14:22:01.781 [main] INFO  Log - Scenario name: FirstTest
+2020-03-14 14:22:01.782 [main] INFO  Log - ENDING test execution of Test: FirstTest
+2020-03-14 14:22:02.936 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:22:04.446 [main] INFO  Log - Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-14 14:22:04.447 [main] INFO  Log - ENDING test execution of Test: SecondTest
+2020-03-14 14:22:05.646 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:22:08.670 [main] INFO  Log - Title: Coding Boot-camp | Tech Lead Academy
+2020-03-14 14:22:08.673 [main] INFO  Log - ENDING test execution of Test: ThirdTest
+2020-03-14 14:28:33.189 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:29:51.644 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:31:02.340 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:31:18.796 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:31:18.804 [main] INFO  Log - ENDING test execution of Test: FailTest
+2020-03-14 14:31:19.931 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:31:21.162 [main] INFO  Log - Title: Google
+2020-03-14 14:31:27.832 [main] INFO  Log - Title: selenium - Google Search
+2020-03-14 14:31:27.833 [main] INFO  Log - Scenario name: FirstTest
+2020-03-14 14:31:27.833 [main] INFO  Log - ENDING test execution of Test: FirstTest
+2020-03-14 14:31:28.993 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:31:30.439 [main] INFO  Log - Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-14 14:31:30.440 [main] INFO  Log - ENDING test execution of Test: SecondTest
+2020-03-14 14:31:31.533 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:31:32.509 [main] INFO  Log - Title: Coding Boot-camp | Tech Lead Academy
+2020-03-14 14:31:32.509 [main] INFO  Log - ENDING test execution of Test: ThirdTest
+2020-03-14 14:35:23.595 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:35:23.603 [main] INFO  Log - ENDING test execution of Test: FailTest
+2020-03-14 14:35:24.723 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:35:26.157 [main] INFO  Log - Title: Google
+2020-03-14 14:35:32.910 [main] INFO  Log - Title: selenium - Google Search
+2020-03-14 14:35:32.910 [main] INFO  Log - Scenario name: FirstTest
+2020-03-14 14:35:32.911 [main] INFO  Log - ENDING test execution of Test: FirstTest
+2020-03-14 14:35:34.020 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:35:36.140 [main] INFO  Log - Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-14 14:35:36.141 [main] INFO  Log - ENDING test execution of Test: SecondTest
+2020-03-14 14:35:37.210 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:35:38.122 [main] INFO  Log - Title: Coding Boot-camp | Tech Lead Academy
+2020-03-14 14:35:38.124 [main] INFO  Log - ENDING test execution of Test: ThirdTest
+2020-03-14 14:38:40.134 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:38:40.143 [main] INFO  Log - ENDING test execution of Test: FailTest
+2020-03-14 14:38:41.312 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:38:42.475 [main] INFO  Log - Title: Google
+2020-03-14 14:38:49.007 [main] INFO  Log - Title: selenium - Google Search
+2020-03-14 14:38:49.007 [main] INFO  Log - Scenario name: FirstTest
+2020-03-14 14:38:49.008 [main] INFO  Log - ENDING test execution of Test: FirstTest
+2020-03-14 14:38:50.111 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:38:51.382 [main] INFO  Log - Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-14 14:38:51.382 [main] INFO  Log - ENDING test execution of Test: SecondTest
+2020-03-14 14:38:52.538 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:38:53.786 [main] INFO  Log - Title: Coding Boot-camp | Tech Lead Academy
+2020-03-14 14:38:53.788 [main] INFO  Log - ENDING test execution of Test: ThirdTest
+2020-03-14 14:44:25.292 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:44:25.301 [main] INFO  Log - ENDING test execution of Test: FailTest
+2020-03-14 14:44:26.482 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:44:27.981 [main] INFO  Log - Title: Google
+2020-03-14 14:44:34.954 [main] INFO  Log - Title: selenium - Google Search
+2020-03-14 14:44:34.954 [main] INFO  Log - Scenario name: FirstTest
+2020-03-14 14:44:35.299 [main] INFO  Log - ENDING test execution of Test: FirstTest
+2020-03-14 14:44:36.453 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:44:39.561 [main] INFO  Log - Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-14 14:44:40.161 [main] INFO  Log - ENDING test execution of Test: SecondTest
+2020-03-14 14:44:41.382 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:44:43.651 [main] INFO  Log - Title: Coding Boot-camp | Tech Lead Academy
+2020-03-14 14:44:44.670 [main] INFO  Log - ENDING test execution of Test: ThirdTest
+2020-03-14 14:50:53.600 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:50:55.053 [main] INFO  Log - Title: Google
+2020-03-14 14:50:55.053 [main] INFO  Log - Description: Testing google search
+2020-03-14 14:51:01.608 [main] INFO  Log - Title: selenium - Google Search
+2020-03-14 14:51:01.608 [main] INFO  Log - Scenario name: FirstTest
+2020-03-14 14:51:01.971 [main] INFO  Log - ENDING test execution of Test: FirstTest
+2020-03-14 14:59:32.520 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:59:32.529 [main] INFO  Log - ENDING test execution of Test: FailTest
+2020-03-14 14:59:33.677 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:59:34.397 [main] INFO  Log - Title: Google
+2020-03-14 14:59:34.397 [main] INFO  Log - Description: Testing google search
+2020-03-14 14:59:41.484 [main] INFO  Log - Title: selenium - Google Search
+2020-03-14 14:59:41.484 [main] INFO  Log - Scenario name: FirstTest
+2020-03-14 14:59:41.829 [main] INFO  Log - ENDING test execution of Test: FirstTest
+2020-03-14 14:59:42.986 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:59:44.312 [main] INFO  Log - Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-14 14:59:44.932 [main] INFO  Log - ENDING test execution of Test: SecondTest
+2020-03-14 14:59:46.041 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:59:46.042 [main] INFO  Log - ENDING test execution of Test: SkipTest
+2020-03-14 14:59:47.185 [main] INFO  Log - Starting test execution of Test
+2020-03-14 14:59:48.451 [main] INFO  Log - Title: Coding Boot-camp | Tech Lead Academy
+2020-03-14 14:59:49.369 [main] INFO  Log - ENDING test execution of Test: ThirdTest
