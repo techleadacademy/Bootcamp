@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5483e412-5354-40c3-8d5e-b099cc40a6ab" name="Default Changelist" comment="" />
+    <list default="true" id="5483e412-5354-40c3-8d5e-b099cc40a6ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parallelRun/TestBase_parallel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parallelRun/TestingClass1_parallel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/parallelRun/TestingClass2_parallel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/extentReports.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/extentReports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testLog-20200314.log" beforeDir="false" afterPath="$PROJECT_DIR$/testLog-20200314.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +34,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Z7bl2517GVROpTQNW0QcwJONy6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,9 +44,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/parallelRun" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="TestNG.TestingClass1">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/parallelRun" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/kuba/Projects/Coding Projects/TLA/BootCamp_Project1/testngRetry.xml">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -80,17 +104,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestingClass1.FirstTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestingClass1_parallel.ThirdTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BootCamp_Project1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.*" />
+          <option name="PATTERN" value="parallelRun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests" />
-      <option name="MAIN_CLASS_NAME" value="Tests.TestingClass1" />
-      <option name="METHOD_NAME" value="FirstTest" />
+      <option name="PACKAGE_NAME" value="parallelRun" />
+      <option name="MAIN_CLASS_NAME" value="parallelRun.TestingClass1_parallel" />
+      <option name="METHOD_NAME" value="ThirdTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -98,35 +122,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestingClass1.SecondTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BootCamp_Project1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Tests" />
-      <option name="MAIN_CLASS_NAME" value="Tests.TestingClass1" />
-      <option name="METHOD_NAME" value="SecondTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/kuba/Projects/Coding Projects/TLA/BootCamp_Project1/asd.xml" type="TestNG" singleton="false" temporary="true" nameIsGenerated="true">
-      <module name="BootCamp_Project1" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/asd.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
+    <configuration name="/Users/kuba/Projects/Coding Projects/TLA/BootCamp_Project1/target/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/target/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/kuba/Projects/Coding Projects/TLA/BootCamp_Project1/testngRetry.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BootCamp_Project1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testngRetry.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -145,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestingClass1" />
-        <item itemvalue="TestNG.TestingClass1.FirstTest" />
+        <item itemvalue="TestNG./Users/kuba/Projects/Coding Projects/TLA/BootCamp_Project1/testngRetry.xml" />
+        <item itemvalue="TestNG.TestingClass1_parallel.ThirdTest" />
         <item itemvalue="TestNG./Users/kuba/Projects/Coding Projects/TLA/BootCamp_Project1/testng.xml" />
-        <item itemvalue="TestNG./Users/kuba/Projects/Coding Projects/TLA/BootCamp_Project1/asd.xml" />
-        <item itemvalue="TestNG.TestingClass1.SecondTest" />
+        <item itemvalue="TestNG./Users/kuba/Projects/Coding Projects/TLA/BootCamp_Project1/target/testng.xml" />
+        <item itemvalue="TestNG.TestingClass1" />
       </list>
     </recent_temporary>
   </component>
@@ -188,81 +196,110 @@
       <screen x="0" y="23" width="1920" height="1004" />
     </state>
     <state x="583" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1004/1920.23.1680.1027@0.23.1920.1004" timestamp="1584203199141" />
-    <state width="1826" height="255" key="GridCell.Tab.0.bottom" timestamp="1584224288362">
-      <screen x="0" y="23" width="1680" height="975" />
+    <state x="747" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1584283464754">
+      <screen x="0" y="23" width="1920" height="1003" />
+    </state>
+    <state x="747" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1584282603088" />
+    <state x="747" y="239" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1003/1920.0.1680.1050@0.23.1920.1003" timestamp="1584283464754" />
+    <state width="1826" height="252" key="GridCell.Tab.0.bottom" timestamp="1584286366370">
+      <screen x="0" y="23" width="1920" height="1003" />
     </state>
     <state width="1638" height="323" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.0.1680.1004@-1920.23.1920.1057" timestamp="1584199855966" />
     <state width="1638" height="177" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1680.980@-1920.23.1920.1057" timestamp="1584193899958" />
     <state width="1638" height="323" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1680.981@-1920.23.1920.1057" timestamp="1584200096559" />
+    <state width="1826" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1584283183311" />
     <state width="1826" height="255" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1584224288362" />
-    <state width="1826" height="323" key="GridCell.Tab.0.bottom/0.23.1920.1002/1920.0.1680.1050@0.23.1920.1002" timestamp="1584209759634" />
+    <state width="1826" height="252" key="GridCell.Tab.0.bottom/0.23.1920.1002/1920.0.1680.1050@0.23.1920.1002" timestamp="1584280833707" />
     <state width="1826" height="323" key="GridCell.Tab.0.bottom/0.23.1920.1002/1920.23.1680.1027@0.23.1920.1002" timestamp="1584209864623" />
-    <state width="1826" height="323" key="GridCell.Tab.0.bottom/0.23.1920.1003/1920.0.1680.1050@0.23.1920.1003" timestamp="1584207415908" />
+    <state width="1826" height="252" key="GridCell.Tab.0.bottom/0.23.1920.1003/1920.0.1680.1050@0.23.1920.1003" timestamp="1584286366370" />
+    <state width="1826" height="252" key="GridCell.Tab.0.bottom/0.23.1920.1003/1920.23.1680.1027@0.23.1920.1003" timestamp="1584283713028" />
     <state width="1826" height="323" key="GridCell.Tab.0.bottom/0.23.1920.1004/1920.0.1680.1050@0.23.1920.1004" timestamp="1584205686312" />
     <state width="1638" height="323" key="GridCell.Tab.0.bottom/0.23.1920.1004/1920.23.1680.1027@0.23.1920.1004" timestamp="1584203929377" />
     <state width="1826" height="255" key="GridCell.Tab.0.bottom/0.23.1920.1005/1920.0.1680.1050@0.23.1920.1005" timestamp="1584212370144" />
     <state width="1638" height="323" key="GridCell.Tab.0.bottom/0.23.1920.1005/1920.23.1680.1027@0.23.1920.1005" timestamp="1584202956299" />
     <state width="1638" height="323" key="GridCell.Tab.0.bottom/0.23.1920.1006/1920.23.1680.1027@0.23.1920.1006" timestamp="1584201032354" />
     <state width="1638" height="323" key="GridCell.Tab.0.bottom/0.23.1920.1007/1920.23.1680.1027@0.23.1920.1007" timestamp="1584200698891" />
+    <state width="1826" height="252" key="GridCell.Tab.0.bottom/0.23.1920.1008/1920.0.1680.1050@0.23.1920.1008" timestamp="1584280336434" />
     <state width="1826" height="255" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.0.1680.1002@0.23.1920.1057" timestamp="1584211117771" />
     <state width="1826" height="323" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1680.978@0.23.1920.1057" timestamp="1584210110525" />
-    <state width="1826" height="255" key="GridCell.Tab.0.center" timestamp="1584224288361">
-      <screen x="0" y="23" width="1680" height="975" />
+    <state width="1638" height="246" key="GridCell.Tab.0.bottom/0.23.1920.996/1920.23.1680.1027@0.23.1920.996" timestamp="1584277392142" />
+    <state width="1826" height="252" key="GridCell.Tab.0.center" timestamp="1584286366369">
+      <screen x="0" y="23" width="1920" height="1003" />
     </state>
     <state width="1638" height="323" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.0.1680.1004@-1920.23.1920.1057" timestamp="1584199855964" />
     <state width="1638" height="177" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1680.980@-1920.23.1920.1057" timestamp="1584193899957" />
     <state width="1638" height="323" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1680.981@-1920.23.1920.1057" timestamp="1584200096558" />
+    <state width="1826" height="252" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1584283183309" />
     <state width="1826" height="255" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1584224288361" />
-    <state width="1826" height="323" key="GridCell.Tab.0.center/0.23.1920.1002/1920.0.1680.1050@0.23.1920.1002" timestamp="1584209759632" />
+    <state width="1826" height="252" key="GridCell.Tab.0.center/0.23.1920.1002/1920.0.1680.1050@0.23.1920.1002" timestamp="1584280833705" />
     <state width="1826" height="323" key="GridCell.Tab.0.center/0.23.1920.1002/1920.23.1680.1027@0.23.1920.1002" timestamp="1584209864622" />
-    <state width="1826" height="323" key="GridCell.Tab.0.center/0.23.1920.1003/1920.0.1680.1050@0.23.1920.1003" timestamp="1584207415906" />
+    <state width="1826" height="252" key="GridCell.Tab.0.center/0.23.1920.1003/1920.0.1680.1050@0.23.1920.1003" timestamp="1584286366369" />
+    <state width="1826" height="252" key="GridCell.Tab.0.center/0.23.1920.1003/1920.23.1680.1027@0.23.1920.1003" timestamp="1584283713026" />
     <state width="1826" height="323" key="GridCell.Tab.0.center/0.23.1920.1004/1920.0.1680.1050@0.23.1920.1004" timestamp="1584205686311" />
     <state width="1638" height="323" key="GridCell.Tab.0.center/0.23.1920.1004/1920.23.1680.1027@0.23.1920.1004" timestamp="1584203929376" />
     <state width="1826" height="255" key="GridCell.Tab.0.center/0.23.1920.1005/1920.0.1680.1050@0.23.1920.1005" timestamp="1584212370143" />
     <state width="1638" height="323" key="GridCell.Tab.0.center/0.23.1920.1005/1920.23.1680.1027@0.23.1920.1005" timestamp="1584202956298" />
     <state width="1638" height="323" key="GridCell.Tab.0.center/0.23.1920.1006/1920.23.1680.1027@0.23.1920.1006" timestamp="1584201032353" />
     <state width="1638" height="323" key="GridCell.Tab.0.center/0.23.1920.1007/1920.23.1680.1027@0.23.1920.1007" timestamp="1584200698889" />
+    <state width="1826" height="252" key="GridCell.Tab.0.center/0.23.1920.1008/1920.0.1680.1050@0.23.1920.1008" timestamp="1584280336432" />
     <state width="1826" height="255" key="GridCell.Tab.0.center/0.23.1920.1057/1920.0.1680.1002@0.23.1920.1057" timestamp="1584211117770" />
     <state width="1826" height="323" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1680.978@0.23.1920.1057" timestamp="1584210110524" />
-    <state width="1826" height="255" key="GridCell.Tab.0.left" timestamp="1584224288361">
-      <screen x="0" y="23" width="1680" height="975" />
+    <state width="1638" height="246" key="GridCell.Tab.0.center/0.23.1920.996/1920.23.1680.1027@0.23.1920.996" timestamp="1584277392142" />
+    <state width="1826" height="252" key="GridCell.Tab.0.left" timestamp="1584286366368">
+      <screen x="0" y="23" width="1920" height="1003" />
     </state>
     <state width="1638" height="323" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.0.1680.1004@-1920.23.1920.1057" timestamp="1584199855963" />
     <state width="1638" height="177" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1680.980@-1920.23.1920.1057" timestamp="1584193899957" />
     <state width="1638" height="323" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1680.981@-1920.23.1920.1057" timestamp="1584200096558" />
+    <state width="1826" height="252" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1584283183308" />
     <state width="1826" height="255" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1584224288361" />
-    <state width="1826" height="323" key="GridCell.Tab.0.left/0.23.1920.1002/1920.0.1680.1050@0.23.1920.1002" timestamp="1584209759632" />
+    <state width="1826" height="252" key="GridCell.Tab.0.left/0.23.1920.1002/1920.0.1680.1050@0.23.1920.1002" timestamp="1584280833704" />
     <state width="1826" height="323" key="GridCell.Tab.0.left/0.23.1920.1002/1920.23.1680.1027@0.23.1920.1002" timestamp="1584209864621" />
-    <state width="1826" height="323" key="GridCell.Tab.0.left/0.23.1920.1003/1920.0.1680.1050@0.23.1920.1003" timestamp="1584207415905" />
+    <state width="1826" height="252" key="GridCell.Tab.0.left/0.23.1920.1003/1920.0.1680.1050@0.23.1920.1003" timestamp="1584286366368" />
+    <state width="1826" height="252" key="GridCell.Tab.0.left/0.23.1920.1003/1920.23.1680.1027@0.23.1920.1003" timestamp="1584283713026" />
     <state width="1826" height="323" key="GridCell.Tab.0.left/0.23.1920.1004/1920.0.1680.1050@0.23.1920.1004" timestamp="1584205686310" />
     <state width="1638" height="323" key="GridCell.Tab.0.left/0.23.1920.1004/1920.23.1680.1027@0.23.1920.1004" timestamp="1584203929375" />
     <state width="1826" height="255" key="GridCell.Tab.0.left/0.23.1920.1005/1920.0.1680.1050@0.23.1920.1005" timestamp="1584212370143" />
     <state width="1638" height="323" key="GridCell.Tab.0.left/0.23.1920.1005/1920.23.1680.1027@0.23.1920.1005" timestamp="1584202956297" />
     <state width="1638" height="323" key="GridCell.Tab.0.left/0.23.1920.1006/1920.23.1680.1027@0.23.1920.1006" timestamp="1584201032352" />
     <state width="1638" height="323" key="GridCell.Tab.0.left/0.23.1920.1007/1920.23.1680.1027@0.23.1920.1007" timestamp="1584200698889" />
+    <state width="1826" height="252" key="GridCell.Tab.0.left/0.23.1920.1008/1920.0.1680.1050@0.23.1920.1008" timestamp="1584280336432" />
     <state width="1826" height="255" key="GridCell.Tab.0.left/0.23.1920.1057/1920.0.1680.1002@0.23.1920.1057" timestamp="1584211117769" />
     <state width="1826" height="323" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1680.978@0.23.1920.1057" timestamp="1584210110523" />
-    <state width="1826" height="255" key="GridCell.Tab.0.right" timestamp="1584224288362">
-      <screen x="0" y="23" width="1680" height="975" />
+    <state width="1638" height="246" key="GridCell.Tab.0.left/0.23.1920.996/1920.23.1680.1027@0.23.1920.996" timestamp="1584277392141" />
+    <state width="1826" height="252" key="GridCell.Tab.0.right" timestamp="1584286366370">
+      <screen x="0" y="23" width="1920" height="1003" />
     </state>
     <state width="1638" height="323" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.0.1680.1004@-1920.23.1920.1057" timestamp="1584199855965" />
     <state width="1638" height="177" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1680.980@-1920.23.1920.1057" timestamp="1584193899958" />
     <state width="1638" height="323" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1680.981@-1920.23.1920.1057" timestamp="1584200096559" />
+    <state width="1826" height="252" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1680.1050@0.0.1920.1080" timestamp="1584283183310" />
     <state width="1826" height="255" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1584224288362" />
-    <state width="1826" height="323" key="GridCell.Tab.0.right/0.23.1920.1002/1920.0.1680.1050@0.23.1920.1002" timestamp="1584209759633" />
+    <state width="1826" height="252" key="GridCell.Tab.0.right/0.23.1920.1002/1920.0.1680.1050@0.23.1920.1002" timestamp="1584280833706" />
     <state width="1826" height="323" key="GridCell.Tab.0.right/0.23.1920.1002/1920.23.1680.1027@0.23.1920.1002" timestamp="1584209864622" />
-    <state width="1826" height="323" key="GridCell.Tab.0.right/0.23.1920.1003/1920.0.1680.1050@0.23.1920.1003" timestamp="1584207415907" />
+    <state width="1826" height="252" key="GridCell.Tab.0.right/0.23.1920.1003/1920.0.1680.1050@0.23.1920.1003" timestamp="1584286366370" />
+    <state width="1826" height="252" key="GridCell.Tab.0.right/0.23.1920.1003/1920.23.1680.1027@0.23.1920.1003" timestamp="1584283713027" />
     <state width="1826" height="323" key="GridCell.Tab.0.right/0.23.1920.1004/1920.0.1680.1050@0.23.1920.1004" timestamp="1584205686311" />
     <state width="1638" height="323" key="GridCell.Tab.0.right/0.23.1920.1004/1920.23.1680.1027@0.23.1920.1004" timestamp="1584203929376" />
     <state width="1826" height="255" key="GridCell.Tab.0.right/0.23.1920.1005/1920.0.1680.1050@0.23.1920.1005" timestamp="1584212370144" />
     <state width="1638" height="323" key="GridCell.Tab.0.right/0.23.1920.1005/1920.23.1680.1027@0.23.1920.1005" timestamp="1584202956298" />
     <state width="1638" height="323" key="GridCell.Tab.0.right/0.23.1920.1006/1920.23.1680.1027@0.23.1920.1006" timestamp="1584201032354" />
     <state width="1638" height="323" key="GridCell.Tab.0.right/0.23.1920.1007/1920.23.1680.1027@0.23.1920.1007" timestamp="1584200698890" />
+    <state width="1826" height="252" key="GridCell.Tab.0.right/0.23.1920.1008/1920.0.1680.1050@0.23.1920.1008" timestamp="1584280336433" />
     <state width="1826" height="255" key="GridCell.Tab.0.right/0.23.1920.1057/1920.0.1680.1002@0.23.1920.1057" timestamp="1584211117771" />
     <state width="1826" height="323" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1680.978@0.23.1920.1057" timestamp="1584210110524" />
+    <state width="1638" height="246" key="GridCell.Tab.0.right/0.23.1920.996/1920.23.1680.1027@0.23.1920.996" timestamp="1584277392142" />
     <state x="-1567" y="151" key="SettingsEditor" timestamp="1584193588653">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-1567" y="151" key="SettingsEditor/-1920.23.1920.1057/0.23.1680.980@-1920.23.1920.1057" timestamp="1584193588653" />
+    <state x="494" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584224337911">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="494" y="344" key="com.intellij.ide.util.TipDialog/0.23.1680.974@0.23.1680.974" timestamp="1584224337911" />
+    <state x="610" y="222" key="new project wizard" timestamp="1584286360811">
+      <screen x="0" y="23" width="1920" height="1003" />
+    </state>
+    <state x="610" y="222" key="new project wizard/0.23.1920.1003/1920.0.1680.1050@0.23.1920.1003" timestamp="1584286360811" />
   </component>
 </project>

@@ -1,0 +1,41 @@
+2020-03-15 09:29:48.876 [TestNG-test=My Test-3] INFO  Log - Starting test execution of Test
+2020-03-15 09:29:48.876 [TestNG-test=My Test-1] INFO  Log - Starting test execution of Test
+2020-03-15 09:29:48.876 [TestNG-test=My Test-2] INFO  Log - Starting test execution of Test
+2020-03-15 09:29:48.889 [TestNG-test=My Test-1] INFO  Log - ENDING test execution of Test: FailTest
+2020-03-15 09:29:52.076 [TestNG-test=My Test-3] INFO  Log - ENDING test execution of Test: SecondTest
+2020-03-15 09:29:52.076 [TestNG-test=My Test-2] INFO  Log - ENDING test execution of Test: FirstTest
+2020-03-15 09:29:53.154 [TestNG-test=My Test-1] INFO  Log - Starting test execution of Test
+2020-03-15 09:29:53.310 [TestNG-test=My Test-2] INFO  Log - Starting test execution of Test
+2020-03-15 09:29:53.324 [TestNG-test=My Test-3] INFO  Log - Starting test execution of Test
+2020-03-15 10:00:36.268 [TestNG-test=My Test-2] INFO  Log - Starting test execution of Test
+2020-03-15 10:00:36.269 [TestNG-test=My Test-1] INFO  Log - Starting test execution of Test
+2020-03-15 10:00:36.268 [TestNG-test=My Test-3] INFO  Log - Starting test execution of Test
+2020-03-15 10:00:39.427 [TestNG-test=My Test-2] INFO  Log - Tittle of the page: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 10:00:40.402 [TestNG-test=My Test-2] INFO  Log - Starting test execution of Test
+2020-03-15 10:00:42.211 [TestNG-test=My Test-3] INFO  Log - Tittle of the page: Coding Boot-camp | Tech Lead Academy
+2020-03-15 10:00:43.281 [TestNG-test=My Test-3] INFO  Log - Starting test execution of Test
+2020-03-15 10:00:43.470 [TestNG-test=My Test-2] INFO  Log - Tittle of the page: CNN - Breaking News, Latest News and Videos
+2020-03-15 10:00:44.663 [TestNG-test=My Test-1] INFO  Log - Tittle of the page: selenium - Google Search
+2020-03-15 10:00:45.802 [TestNG-test=My Test-3] INFO  Log - Tittle of the page: YouTube
+2020-03-15 10:39:45.635 [main] INFO  Log - Starting test execution of Test
+2020-03-15 10:39:46.989 [main] INFO  Log - Tittle of the page: Coding Boot-camp | Tech Lead Academy
+2020-03-15 10:39:48.003 [main] INFO  Log - Starting test execution of Test
+2020-03-15 10:39:50.110 [main] INFO  Log - Tittle of the page: Coding Boot-camp | Tech Lead Academy
+2020-03-15 10:39:51.125 [main] INFO  Log - Starting test execution of Test
+2020-03-15 10:39:52.294 [main] INFO  Log - Tittle of the page: Coding Boot-camp | Tech Lead Academy
+2020-03-15 10:42:01.474 [main] INFO  Log - Starting test execution of Test
+2020-03-15 10:42:03.813 [main] INFO  Log - Tittle of the page: Coding Boot-camp | Tech Lead Academy
+2020-03-15 10:48:35.200 [main] INFO  Log - Starting test execution of Test
+2020-03-15 10:48:42.949 [main] INFO  Log - Tittle of the page: selenium - Google Search
+2020-03-15 10:48:43.934 [main] INFO  Log - Starting test execution of Test
+2020-03-15 10:48:45.276 [main] INFO  Log - Tittle of the page: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 10:48:46.319 [main] INFO  Log - Starting test execution of Test
+2020-03-15 10:48:47.723 [main] INFO  Log - Tittle of the page: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 10:48:48.686 [main] INFO  Log - Starting test execution of Test
+2020-03-15 10:48:49.764 [main] INFO  Log - Tittle of the page: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 10:48:50.760 [main] INFO  Log - Starting test execution of Test
+2020-03-15 10:48:52.570 [main] INFO  Log - Tittle of the page: Coding Boot-camp | Tech Lead Academy
+2020-03-15 10:48:53.513 [main] INFO  Log - Starting test execution of Test
+2020-03-15 10:48:56.615 [main] INFO  Log - Tittle of the page: Coding Boot-camp | Tech Lead Academy
+2020-03-15 10:48:57.573 [main] INFO  Log - Starting test execution of Test
+2020-03-15 10:49:00.366 [main] INFO  Log - Tittle of the page: Coding Boot-camp | Tech Lead Academy
